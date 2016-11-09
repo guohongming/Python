@@ -94,9 +94,7 @@ num=string.count(str1))把 string 中的 str1 替换成 str2,如果 num 指定�
 
 34. string.startswith(obj, beg=0,end=len(string))b, e检查字符串是否是以 obj 开头，是则返回 True，否则返回 False。如果
 beg 和 end 指定值，则在指定范围内
-Edit By Vheavens
-Edit By Vheavens
-检查.
+
 
 35. string.strip([obj]) 在 string 上执行 lstrip()和 rstrip()
 
